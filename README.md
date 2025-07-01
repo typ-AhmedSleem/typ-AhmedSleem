@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sleem</h1>
 <h3 align="center">Proud Muslim ❤️</h3>
 
-<h3 align="center">Engineering Student working as Native Mobile Software Developer 🌱</h3>
+<h3 align="center">Native Mobile Software Developer 🌱</h3>
 <h3 align="center"> Loves writing native mobile apps for Android and iOS and admires using KMP</h3>
 
 <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=typ-ahmedsleem&show_icons=true&locale=en" alt="typ-ahmedsleem" /></p> -->
